@@ -12,11 +12,11 @@ Group:		Development/Tools
 Source0:	ftp://ftp.kernel.org/pub/linux/devel/binutils/binutils-%{version}.tar.bz2
 # Source0-md5:	1c1af0064ebd3d7bd99905874656a21e
 URL:		http://sources.redhat.com/binutils/
+BuildRequires:	automake
 BuildRequires:	bash
 BuildRequires:	bison
 BuildRequires:	flex
 BuildRequires:	gettext-devel
-BuildRequires:	perl-devel
 %ifarch sparc sparc32
 BuildRequires:	sparc32
 %endif
