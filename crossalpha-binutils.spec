@@ -5,7 +5,7 @@ Summary(pl):	Skro¶ne narzêdzia programistyczne GNU dla ALPHA - binutils
 Summary(pt_BR):	Utilitários para desenvolvimento de binários da GNU - ALPHA binutils
 Summary(tr):	GNU geliþtirme araçlarý - ALPHA binutils
 Name:		crossalpha-binutils
-Version:	2.15.90.0.3
+Version:	2.15.91.0.1
 Release:	1
 License:	GPL
 Group:		Development/Tools
